@@ -3,3 +3,4 @@ chainlit
 python-dotenv 
 wikipedia 
 duckduckgo-search
+openai
